@@ -10,7 +10,7 @@ nav {
 
 nav a {
     float: right;
-    color: #f2f2f2;
+    color: #cbcbcb;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -23,6 +23,6 @@ nav a:hover {
 }
 
 nav a.active {
-    background-color: #4CAF50;
+    background-color: 3d8dfd;
     color: blue;
 }
